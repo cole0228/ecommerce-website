@@ -1,0 +1,242 @@
+/*
+  Colour Palette
+  - Dark green: #060 - rgb(0, 100, 0)
+  - Dark red: #600 - rgb(100, 0, 0)
+ */
+
+@charset "UTF-8";
+/* CSS Document */
+
+html {
+  font: normal 100%/1.5 Georgia,serif; /* 16px/24px */
+  background-color: #DAD9DB;
+}
+
+p{
+ color: #1C1C25;
+}
+
+h1, h2, h3, h4, h5, h6,
+p, ul, ol, dl,
+blockquote, table, hr {
+  margin: 0 0 1.5rem;
+}
+
+.yotta {
+  font-size: 2.2665rem;
+  line-height: 1.3236;
+}
+
+.zetta {
+  font-size: 2.0165rem;
+  line-height: 1.4877;
+}
+
+h1, .exa {
+  font-size: 1.7940rem;
+  line-height: 1.6722;
+}
+
+h2, .peta {
+  font-size: 1.5961rem;
+  line-height: 1.8796;
+}
+
+h3, .tera {
+  font-size: 1.4200rem;
+  line-height: 1.0563;
+}
+
+h4, .giga {
+  font-size: 1.2634rem;
+  line-height: 1.1873;
+}
+
+h5, .mega {
+  font-size: 1.1240rem;
+  line-height: 1.3345;
+}
+
+h6, .kilo {
+  font-size: 1.0000rem;
+  line-height: 1.5000;
+}
+
+small, .milli {
+  font-size: 0.8897rem;
+  line-height: 1.6860;
+}
+
+.micro {
+  font-size: 0.7915rem;
+  line-height: 1.8951;
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-family: futura,sans-serif;
+	font-weight: lighter;
+	color: #7F002B;	
+}
+
+::selection {
+	background-color: #393;
+	color: #fff;
+}
+
+a,
+a:link {
+	color: #1A0C33;
+	text-decoration: none;	
+	border-bottom: 0.1em solid rgba(51, 158, 155, 1);
+	transition: all 200ms linear;
+}
+
+a:visited{
+	color: #1A0C33;
+	border-bottom-color: rgba(51, 158, 155, 1);
+}
+
+a:hover,
+a:focus,
+a:active {
+	color: #7F002B;
+	border-bottom-color: #1A0C33;
+}
+
+ul{
+	font-family: futura,sans-serif;
+	font-weight: normal;
+	list-style-type: none;
+	color: #7F002B;
+}
+
+ul li{
+	position: relative;
+}
+
+ul li:before{
+	content: "•";
+	position: absolute;
+	left: -.6em;
+}
+
+ol{
+	font-family: futura,sans-serif;
+	font-weight: lighter;
+	color: #7F002B;
+}
+
+ol li:before{
+	color: #339E9B;
+}
+
+dl{
+	font-family: futura,sans-serif;
+}
+
+dt{
+	color: #1a0c33;
+}
+
+dd{
+	color: #7f002b;
+}
+
+blockquote{
+	margin-left: 5%;
+	margin-right: 5%; 
+}
+
+cite, footer{
+	color: #339E9B;	
+}
+
+hr{
+	
+}
+
+a{
+	
+}
+
+em{
+	font-family: futura,sans-serif;
+	color: #339E9B;
+}
+
+strong{
+	color: #7F002B;
+	font-weight: bold;
+}
+
+sub{
+	color: #7F002B;
+}
+
+sup{
+	color: #339E9B;
+}
+
+i{
+	font-family: futura,sans-serif;
+	font-weight: lighter;
+	color: #1A0C33;
+}
+
+b{
+	font-family: futura,sans-serif;
+	font-weight: bolder;
+	color: #7F002B;
+}
+
+ins{
+		
+}
+
+s{
+	
+}
+
+q{
+	
+}
+
+dfn{
+	
+}
+
+abbr{
+	
+}
+
+time{
+	
+}
+
+mark{
+	
+}
+
+del{
+	
+}
+
+data{
+	
+}
+
+table{
+	
+}
+
+th{
+	
+}
+
+td{
+	
+}
+
+caption{
+	
+}
