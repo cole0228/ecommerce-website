@@ -65,11 +65,14 @@ h6, .kilo {
 small, .milli {
   font-size: 0.8897rem;
   line-height: 1.6860;
+  color: #7F002B;
 }
 
 .micro {
   font-size: 0.7915rem;
   line-height: 1.8951;
+  color: #339E9B;
+  font-weight: bold;
 }
 
 h1, h2, h3, h4, h5, h6{
@@ -79,8 +82,8 @@ h1, h2, h3, h4, h5, h6{
 }
 
 ::selection {
-	background-color: #393;
-	color: #fff;
+	background-color: #CECECE;;
+	color: #FFF;
 }
 
 a,
@@ -243,13 +246,19 @@ table{
 }
 
 th{
-	
+	color: #7F002B;
+	font-weight: lighter;
+	border-bottom: dotted;
+	border-bottom-width: .1rem;	
 }
 
 td{
-	
+	font-family: futura,sans-serif;
+	font-weight: lighter;
+	color: #1A0C33;
 }
 
 caption{
-	
+	color: #339E9B;
+	font-family: futura,sans-serif;
 }
