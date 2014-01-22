@@ -155,11 +155,15 @@ cite, footer{
 }
 
 hr{
-	
+	color: #7F002B;
+	background-color: #7F002B;
+	height: 1px;
+	opacity: 0.6;
 }
 
 a{
-	
+	color: #1A0C33;
+	border-bottom-color: rgba(51, 158, 155, 1);
 }
 
 em{
@@ -238,18 +242,17 @@ mark{
 }
 
 data{
-	
+	color: #7F002B;
 }
 
 table{
-	
+	border: dotted;
+	border-width: .1rem;	
 }
 
 th{
 	color: #7F002B;
-	font-weight: lighter;
-	border-bottom: dotted;
-	border-bottom-width: .1rem;	
+	font-weight: lighter;	
 }
 
 td{
