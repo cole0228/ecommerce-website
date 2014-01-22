@@ -190,35 +190,48 @@ b{
 }
 
 ins{
-		
-}
-
-s{
-	
-}
-
-q{
-	
-}
-
-dfn{
-	
-}
-
-abbr{
-	
-}
-
-time{
-	
-}
-
-mark{
-	
+	color: #339E9B;
+	font-family: futura,sans-serif;
 }
 
 del{
-	
+	color: #7F002B;
+	font-family: futura,sans-serif;
+	font-weight: lighter;
+}
+
+s{
+	color: #1A0C33;
+	font-family: futura,sans-serif;
+	font-weight: bold;
+}
+
+q{
+	font-family: futura,sans-serif;
+	font-weight: lighter;
+	color: #7F002B;
+}
+
+dfn{
+	font-style: italic;
+	color: #339E9B;
+}
+
+abbr{
+	font-style: italic;
+	font-family: futura,sans-serif;
+	font-weight: lighter;
+	color: #339E9B;
+}
+
+time{
+	font-weight: bolder;
+}
+
+mark{
+	background-color: #339E9B;
+	color: #7F002B;
+	font-weight: bold;
 }
 
 data{
