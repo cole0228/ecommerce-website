@@ -8,7 +8,7 @@
 /* CSS Document */
 
 html {
-  font: normal 100%/1.5 Georgia,serif; /* 16px/24px */
+  font: normal 100%/1.5 futura,sans-serif; /* 16px/24px */
   background-color: #DAD9DB;
 }
 
@@ -78,7 +78,7 @@ small, .milli {
 h1, h2, h3, h4, h5, h6{
 	font-family: futura,sans-serif;
 	font-weight: lighter;
-	color: #7F002B;	
+	color: #7F002B;
 }
 
 ::selection {
@@ -89,7 +89,7 @@ h1, h2, h3, h4, h5, h6{
 a,
 a:link {
 	color: #1A0C33;
-	text-decoration: none;	
+	text-decoration: none;
 	border-bottom: 0.1em solid rgba(51, 158, 155, 1);
 	transition: all 200ms linear;
 }
@@ -147,11 +147,11 @@ dd{
 
 blockquote{
 	margin-left: 5%;
-	margin-right: 5%; 
+	margin-right: 5%;
 }
 
 cite, footer{
-	color: #339E9B;	
+	color: #339E9B;
 }
 
 hr{
@@ -247,12 +247,12 @@ data{
 
 table{
 	border: dotted;
-	border-width: .1rem;	
+	border-width: .1rem;
 }
 
 th{
 	color: #7F002B;
-	font-weight: lighter;	
+	font-weight: lighter;
 }
 
 td{
