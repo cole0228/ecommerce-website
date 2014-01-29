@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.promos{
+	padding-left: 0.75rem;
+	padding-top: 0.75rem;
+}
+
+.large-promo-img{
+	float: none;
+	margin: 0;
+}
+
+.img-flex{
+	display: block;
+	width: 100%;
+}
