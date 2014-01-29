@@ -6,6 +6,10 @@
 	padding-top: 0.75rem;
 }
 
+.promos-small{
+	max-with: 25rem;
+}
+
 .large-promo-img{
 	float: none;
 	margin: 0;
@@ -15,3 +19,4 @@
 	display: block;
 	width: 100%;
 }
+
