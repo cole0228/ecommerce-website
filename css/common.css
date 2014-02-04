@@ -25,5 +25,5 @@ html {
 
 .img-flex {
 	display: block;
-	max-width: 45%;
+	width: 100%;
 }
