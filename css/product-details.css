@@ -1,0 +1,17 @@
+.all{
+	margin: 2em;
+	border: 1px solid #7F002B;
+}
+
+.img-flex-max{
+	display: block;
+	width: 15em;
+}
+
+.top{
+	margin: 1em;
+}
+
+.middle{
+	margin: 3%;
+}

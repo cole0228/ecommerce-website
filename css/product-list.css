@@ -2,4 +2,7 @@
 	padding-left: 0.75rem;
 	padding-top: 0.75rem;
 	max-width: 20rem;
+	margin: 0 auto;
+	display: table;
+	border: 1px solid #7F002B;
 }
