@@ -1,0 +1,43 @@
+/*
+colour palette
+grey: #CECECE
+teal: #339E9B
+purple: #571062
+red: #7F002B
+white: #fff
+*/
+
+footer{
+		clear: both;
+	}
+
+	.grey{
+		color: #CECECE;
+	}
+
+.facebook a{
+	display: block;
+	width: 70px;
+	height: 70px;
+	background-image: url("../images/facebook-1.svg");
+	margin: 3rem auto 0;
+	border: none;
+}
+
+.facebook a:hover{
+	display: block;
+	width: 70px;
+	height: 70px;
+	background-image: url("../images/facebook-2.svg");
+	margin: 3rem auto 0;
+	border: none;
+}
+
+a, a:link{
+	border:none;
+	transition: none;
+}
+
+table{
+	border: none;
+}
