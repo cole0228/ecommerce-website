@@ -9,10 +9,9 @@ white: #fff
 
 footer{
 		clear: both;
-	}
-
-	.grey{
-		color: #CECECE;
+		border: 1px solid #7F002B;
+		background-color: #eee;
+		padding: 2rem 2rem 0 2rem;
 	}
 
 .facebook a{
@@ -29,6 +28,24 @@ footer{
 	width: 70px;
 	height: 70px;
 	background-image: url("../images/facebook-2.svg");
+	margin: 3rem auto 0;
+	border: none;
+}
+
+.twitter a{
+	display: block;
+	width: 70px;
+	height: 70px;
+	background-image: url("../images/twitter-1.svg");
+	margin: 3rem auto 0;
+	border: none;
+}
+
+.twitter a:hover{
+	display: block;
+	width: 70px;
+	height: 70px;
+	background-image: url("../images/twitter-2.svg");
 	margin: 3rem auto 0;
 	border: none;
 }
