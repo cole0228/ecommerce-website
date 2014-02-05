@@ -6,10 +6,12 @@
 		margin-top: 1em;
 		margin-left: auto;
 		margin-right: auto;
+		margin-bottom: 1em;
 	}
 	.search-s-1{
+		display: block;
+		width: 100%;
 		margin-left: 2.7em;
-		margin-top: .5em;
 	}
 }
 
@@ -18,4 +20,25 @@
 		width: 100%;
 		padding: 0;
 	}
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: table;
+}
+li{
+	float: left;
+}
+
+a{
+	display: block;
+	width: 60px;
+}
+
+.navig{
+	list-style-type:;
+	margin: 0 auto;
+	display: table;
 }
