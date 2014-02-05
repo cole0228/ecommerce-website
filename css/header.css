@@ -1,3 +1,10 @@
+header {
+	background-color: #eee;
+}
+
+ul li:before {
+	content: none;
+}
 
 @media only screen and (min-width: 15em){
 	.img-s-1{
@@ -28,17 +35,20 @@ ul{
 	padding: 0;
 	display: table;
 }
+
 li{
 	float: left;
+	width: 50%;
+	display: inline;
 }
 
 a{
 	display: block;
-	width: 60px;
+	width: 20%;
 }
 
 .navig{
-	list-style-type:;
 	margin: 0 auto;
 	display: table;
+	width: 100%;
 }

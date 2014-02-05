@@ -6,6 +6,7 @@
 .img-flex-max{
 	display: block;
 	width: 15em;
+	float: left;
 }
 
 .top{
@@ -14,4 +15,16 @@
 
 .middle{
 	margin: 3%;
+}
+
+ul,
+li:before{
+	position: static;
+
+}
+
+@media only screen and (min-width: 30em){
+	.img-flex-max{
+		margin-right: .5rem;
+	}
 }

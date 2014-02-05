@@ -119,7 +119,7 @@ ul li{
 
 ul li:before{
 	content: "•";
-	position: absolute;
+
 	left: -.6em;
 }
 
