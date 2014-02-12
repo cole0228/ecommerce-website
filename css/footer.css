@@ -50,6 +50,24 @@ footer{
 	border: none;
 }
 
+.behance a{
+	display: block;
+	width: 70px;
+	height: 70px;
+	background-image: url("../images/behance-1.svg");
+	margin: 3rem auto 0;
+	border: none;
+}
+
+.behance a:hover{
+	display: block;
+	width: 70px;
+	height: 70px;
+	background-image: url("../images/behance-2.svg");
+	margin: 3rem auto 0;
+	border: none;
+}
+
 a, a:link{
 	border:none;
 	transition: none;
