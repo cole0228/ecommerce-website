@@ -8,7 +8,10 @@ white: #fff
 */
 
 header {
+	margin-bottom: 1.5em;
+	border: 1px solid #7F002B;
 	background-color: #eee;
+	padding: 2rem 2rem 0 2rem;
 }
 
 ul li:before {
@@ -31,7 +34,7 @@ a{
 }
 
 .navig{
-	margin: 0 auto;
+	margin: .5em auto;
 	display: table;
 	width: 100%;
 }

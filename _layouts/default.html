@@ -17,11 +17,20 @@
 	<link href="{{site.baseurl}}/css/grid.css" rel="stylesheet">
 	<link href="{{site.baseurl}}/css/header.css" rel="stylesheet">
 	<link href="{{site.baseurl}}/css/footer.css" rel="stylesheet">
-	<link href="{{site.baseurl}}/css/product.css" rel="stylesheet">
-	<link href="{{site.baseurl}}/css/product-list-item.css" rel="stylesheet">
+	<link href="{{site.baseurl}}/css/product-list.css" rel="stylesheet">
+	<link href="{{site.baseurl}}/css/product-details.css" rel="stylesheet">
+
+		<style>
+			body{
+				margin: 0 auto;
+				padding: 0;
+				max-width: 75rem;
+			}
+	</style>
+
 </head>
 
-<body>
+<body class="grid">
 
 	<header class="grid">
 
@@ -31,6 +40,13 @@
 
 			<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
 				<h1 class="yotta">Dragons</h1>
+			</div>
+
+			<div class="unit gutter search-s-1">
+				<form method="get" action="/search" id="search">
+					<input name="q" type="text" size="40" placeholder="Search Field">
+					<input class="search-button" id="submit" type="submit" value="Search">
+				</form>
 			</div>
 
 			<div class="unit unit-s-1 unit-m-1 unit-l-1">
@@ -43,16 +59,11 @@
 
 	</header>
 
+
+
 {{content}}
 
 <footer>
-			<div class="unit gutter search-s-1">
-						<form method="get" action="/search" id="search"/>
-						<input name="q" type="text" size="40" placeholder="Search Field">
-						<input class="search-button" id="submit" type="submit" value="Search">
-					</form>
-			</div>
-
 			<p class="mega">Copyright 2014 © Dragons inc.</p>
 
 			<table class="connect">
