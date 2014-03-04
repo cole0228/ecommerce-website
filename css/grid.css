@@ -8,7 +8,7 @@ white: #fff
 */
 
 .grid {
-	overflow: hidden;
+	overflow: auto;
 }
 
 .unit{
