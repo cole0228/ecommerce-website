@@ -8,10 +8,9 @@ white: #fff
 */
 
 .product{
-	padding-left: 0.75rem;
-	padding-top: 0.75rem;
-	max-width: 20rem;
-	margin: 0 0 1.5em 0;
+	padding: 2em;
+	width: 15rem;
+	margin-bottom: 1.5em;
 	display: table;
 	border: 1px solid #7F002B;
 	background: #eee;
