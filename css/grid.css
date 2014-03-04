@@ -11,6 +11,10 @@ white: #fff
 	margin: 0 1.5em 0 1.5em;
 }
 
+.thank-you{
+	margin: 0 30% 0 30%;
+}
+
 .grid {
 	overflow: auto;
 }
