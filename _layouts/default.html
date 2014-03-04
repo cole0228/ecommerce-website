@@ -7,14 +7,18 @@
 	<meta name="mobileoptimized" content="240">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<link href="http://fonts.googleapis.com/css?family=Patua+One" rel="stylesheet">
-	<link href="../css/common.css" rel="stylesheet">
-	<link href="../css/typography.css" rel="stylesheet">
-	<link href="../css/list-group.css" rel="stylesheet">
-	<link href="../css/media-object.css" rel="stylesheet">
-	<link href="../css/grid.css" rel="stylesheet">
-	<link href="../css/header.css" rel="stylesheet">
-	<link href="../css/forms.css" rel="stylesheet">
-	<link href="../css/buttons.css" rel="stylesheet">
+	<link href="{{site.baseurl}}/css/typography.css" rel="stylesheet">
+	<link href="{{site.baseurl}}/css/common.css" rel="stylesheet">
+	<link href="{{site.baseurl}}/css/list-group.css" rel="stylesheet">
+	<link href="{{site.baseurl}}/css/media-object.css" rel="stylesheet">
+	<link href="{{site.baseurl}}/css/embed.css" rel="stylesheet">
+	<link href="{{site.baseurl}}/css/icons.css" rel="stylesheet">
+	<link href="{{site.baseurl}}/css/buttons.css" rel="stylesheet">
+	<link href="{{site.baseurl}}/css/grid.css" rel="stylesheet">
+	<link href="{{site.baseurl}}/css/header.css" rel="stylesheet">
+	<link href="{{site.baseurl}}/css/footer.css" rel="stylesheet">
+	<link href="{{site.baseurl}}/css/product.css" rel="stylesheet">
+	<link href="{{site.baseurl}}/css/product-list-item.css" rel="stylesheet">
 </head>
 
 <body>
@@ -31,15 +35,34 @@
 
 			<div class="unit unit-s-1 unit-m-1 unit-l-1">
 				<ul class="navig">
-					<li><a href="#">About</a></li>
-					<li><a href="#">Catalog</a></li>
-					<li><a href="#">Contact</a></li>
+					<li><a href="{{site.baseurl}}">About</a></li>
+					<li><a href="{{site.baseurl}}/catalog/">Catalog</a></li>
+					<li><a href="{{site.baseurl}}/contact/">Contact</a></li>
 				</ul>
 			</div>
 
 	</header>
 
 {{content}}
+
+<footer>
+			<div class="unit gutter search-s-1">
+						<form method="get" action="/search" id="search"/>
+						<input name="q" type="text" size="40" placeholder="Search Field">
+						<input class="search-button" id="submit" type="submit" value="Search">
+					</form>
+			</div>
+
+			<p class="mega">Copyright 2014 © Dragons inc.</p>
+
+			<table class="connect">
+				<tbody>
+					<td><div class="facebook"> <a target="_blank" href="#"></a></div></td>
+					<td><div class="twitter"> <a target="_blank" href="#"></a></div></td>
+					<td><div class="behance"> <a target="_blank" href="#"></a></div></td>
+				</tbody>
+
+		</footer>
 
 </body>
 </html>
