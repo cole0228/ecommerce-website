@@ -8,7 +8,8 @@ white: #fff
 */
 
 .p-margin{
-	margin: 0 1.5em 0 1.5em;
+	margin-left: 1.5em;
+	margin-right: 1.5em;
 }
 
 .thank-you{

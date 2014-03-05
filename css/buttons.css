@@ -52,3 +52,13 @@ white: #fff
 	background-color: #5d8432;
 	background-image: linear-gradient(to bottom, #5d8432, #3b6210);
 }
+
+.btn:hover{
+	background-color: #571062;
+	background-image: none;
+}
+
+.btn2:hover{
+	background-color: #571062;
+	background-image: none;
+}
