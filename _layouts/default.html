@@ -2,7 +2,7 @@
 <html lang="en-ca">
 <head>
 	<meta charset="UTF-8">
-	<title>Ecommerce Website</title>
+	<title>{{page.tittle}} · Ecommerce Website</title>
 	<meta name="handheldfriendly" content="true">
 	<meta name="mobileoptimized" content="240">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
@@ -51,9 +51,9 @@
 
 			<div class="unit unit-s-1 unit-m-1 unit-l-1">
 				<ul class="navig">
-					<li><a class="current" href="{{site.baseurl}}/index.html/">Home</a></li>
-					<li><a href="{{site.baseurl}}/about/">About</a></li>
-					<li><a href="{{site.baseurl}}/contact/">Contact</a></li>
+					<li><a class="{% if page.url =='/'%}current{% endif %}" href="{{site.baseurl}}/index.html/">Home</a></li>
+					<li><a class="{% if page.url =='about'%}current{% endif %}" href="{{site.baseurl}}/about/">About</a></li>
+					<li><a class="{% if page.url =='contact'%}current{% endif %}" href="{{site.baseurl}}/contact/">Contact</a></li>
 				</ul>
 			</div>
 
