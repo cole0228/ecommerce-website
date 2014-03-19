@@ -7,6 +7,10 @@ red: #7F002B
 white: #fff
 */
 
+.logo{
+	max-width: 50%;
+}
+
 .p-margin{
 	margin-left: 1.5em;
 	max-width: 80%;
