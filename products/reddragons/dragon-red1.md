@@ -1,0 +1,26 @@
+---
+layout: default
+category: dragons
+type: red
+images: red-dragon1.jpg
+title: Red Dragon 1
+meta: This is the a red dragon that you can buy
+price: $70,000
+---
+
+![images](/images/red-dragon1.jpg)
+
+### Red Dragon
+##### Price: 70,000
+
+---
+
+*Cotton candy* pudding **bear claw caramels** bear claw ***toffee sweet roll wafer***. Sugar plum sesame snaps brownie pie fruitcake. Chocolate bar croissant oat cake.
+
+Cotton candy pudding bear claw caramels bear claw toffee sweet roll wafer. Sugar plum sesame snaps brownie pie fruitcake. [Chocolate bar croissant oat cake.]()
+
+## Features
+
+- Red
+- Fiery
+
