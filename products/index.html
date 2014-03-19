@@ -2,18 +2,22 @@
 layout: default
 title: Store
 ---
+
 <div class="grid">
-	<ul>
-		<li><a href="{{site.baseurl}}/products/red-dragons">Red Dragons</a></li>
-		<li><a href="{{site.baseurl}}/products/blue-dragons">Blue Dragons</a></li>
+	<ul class="center">
+		<li><a class="current" href="{{site.baseurl}}/products">All</a></li>
+		<li><a href="{{site.baseurl}}/products/reddragons">Red Dragons</a></li>
+		<li><a href="{{site.baseurl}}/products/bluedragons">Blue Dragons</a></li>
 	</ul>
+
+	<hr>
 
 	{% for products in site.pages %}
 		{% if products.category == 'dragons' %}
 
 <div class="gutter">
 		<div class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
-			<a href="{{site.baseurl}}{{products.url}}"><img class="img-flex" src="{{site.baseurl}}/images/{{products.images}}" alt="products.title" Dragons></a>
+			<a href="{{site.baseurl}}{{products.url}}"><img class="img-flex img-grid" src="{{site.baseurl}}/images/{{products.images}}" alt="products.title"> Dragons</a>
 			<h3>{{products.title}} Dragons</h3>
 			<p>{{products.meta}}</p>
 			<h4>{{products.price}}</h4>

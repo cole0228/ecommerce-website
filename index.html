@@ -21,8 +21,8 @@ meta: We sell dragons all over the world. Dargons of all kinds
 
     <div>
 
-      <div class="product-img">
-        <img src="http://placehold.it/256x256" alt="placeholder for product list item">
+      <div>
+        <img class="product-img" src="{{site.baseurl}}/images/blue-dragon1.jpg" alt="placeholder for product list item">
       </div>
 
     <h2>Product</h2>
@@ -48,13 +48,14 @@ meta: We sell dragons all over the world. Dargons of all kinds
   <div class="gutter unit unit-s-1 unit-m-1-3 unit-l-1-3">
       {% include promo-small.html %}
   </div>
-
-  <div class="gutter unit unit-s-1 unit-m-1-2 unit-l-1-2">
-    {% include promo-large.html %}
-  </div>
-
-  <div class="gutter unit unit-s-1 unit-m-1-2 unit-l-1-2">
-    {% include promo-large.html %}
-  </div>
-
 </div>
+<div class="grid">
+  <div class="gutter unit unit-s-1 unit-m-1-2 unit-l-1-2">
+    {% include promo-large.html %}
+  </div>
+
+  <div class="gutter unit unit-s-1 unit-m-1-2 unit-l-1-2">
+    {% include promo-large.html %}
+  </div>
+</div>
+
