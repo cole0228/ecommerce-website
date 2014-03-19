@@ -16,3 +16,7 @@ white: #fff
 	border: 1px solid #7F002B;
 	background: #eee;
 }
+
+.product-img{
+	max-width: 18.5em;
+}
