@@ -26,6 +26,15 @@ white: #fff
 
 .unit{
 	float: left;
+	margin: .5em;
+}
+
+.gutter{
+	margin: .5em;
+}
+
+.gutter img{
+	margin-bottom: .5em;
 }
 
 .unit-s-1{ /* you want them to stack on top of each other */
