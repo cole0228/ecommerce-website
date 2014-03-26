@@ -19,4 +19,21 @@ layout: default
 </div>
 		{% endif %}
 	{% endfor %}
+
+	{% for reddragons in site.pages %}
+		{% if reddragons.type == 'red' %}
+
+<div class="gutter">
+		<div class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
+			<a class="mega" href="{{site.baseurl}}{{reddragons.url}}"><img class="img-flex img-grid" src="{{site.baseurl}}/images/{{reddragons.images}}" alt="reddragons.title">Blue</a>
+			<h3>{{reddragons.title}} Dragons</h3>
+			<p>{{reddragons.meta}}</p>
+			<h4>{{reddragons.price}}</h4>
+			<a class="btn2" href="{{site.baseurl}}{{reddragons.url}}"> Information</a>
+		</div>
+
 </div>
+		{% endif %}
+	{% endfor %}
+</div>
+
