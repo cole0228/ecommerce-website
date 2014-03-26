@@ -19,6 +19,8 @@ price: $70,000
 
 Cotton candy pudding bear claw caramels bear claw toffee sweet roll wafer. Sugar plum sesame snaps brownie pie fruitcake. [Chocolate bar croissant oat cake.]()
 
+<a class="btn2" href="{{site.baseurl}}{{bluedragons.url}}"> Buy Now</a>
+
 ## Features
 
 - Blue
