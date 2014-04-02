@@ -9,6 +9,8 @@ price: $70,000
 search: reddragons
 ---
 
+<main role="main>"
+
 ![images](/images/red-dragon1.jpg)
 
 ### Red Dragon
@@ -28,3 +30,5 @@ Cotton candy pudding bear claw caramels bear claw toffee sweet roll wafer. Sugar
 - Fiery
 
 <hr>
+
+</main>
