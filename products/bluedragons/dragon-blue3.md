@@ -2,14 +2,14 @@
 layout: default
 category: dragons
 type: blue
-images: blue-dragon1.jpg
+images: blue-dragon3.jpg
 title: Blue Dragon 3
 meta: This is the a blue dragon that you can buy
 price: $70,000
 search: bluedragons
 ---
 
-![images](/images/blue-dragon1.jpg)
+![images](/images/blue-dragon3.jpg)
 
 ### Blue Dragon
 ##### Price: 70,000
