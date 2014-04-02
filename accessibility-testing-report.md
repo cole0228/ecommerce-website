@@ -21,8 +21,8 @@ User testing was conducted by {your name} on {specific date} between the times o
 
 ### {Melissa Roy}
 
-- {She completed the task as expected…}
-- {She had troubles completing a specific task…}
+- {She bough the item and had no difficulties buying an item}
+- {Navigated around the site only had issues with the lorem ipsum which will be changed}
 - etc.
 
 ### {John Doe}
