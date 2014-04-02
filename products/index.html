@@ -10,22 +10,30 @@ title: Store
 		<li><a href="{{site.baseurl}}/products/bluedragons">Blue Dragons</a></li>
 	</ul>
 
-	<hr>
+<hr>
 
-	{% for products in site.pages %}
-		{% if products.category == 'dragons' %}
+	<main role="main">
 
-<div class="gutter">
-		<div class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
-			<a href="{{site.baseurl}}{{products.url}}"><img class="img-flex img-grid" src="{{site.baseurl}}/images/{{products.images}}" alt="products.title"> Dragons</a>
-			<h3>{{products.title}} Dragons</h3>
-			<p>{{products.meta}}</p>
-			<h4>{{products.price}}</h4>
-			<a class="btn2" href="{{site.baseurl}}{{products.url}}"> Information</a>
+		{% for products in site.pages %}
+			{% if products.category == 'dragons' %}
+
+		<div class="gutter">
+
+				<div class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
+					<a href="{{site.baseurl}}{{products.url}}"><img class="img-flex img-grid" src="{{site.baseurl}}/images/{{products.images}}" alt="products.title"> Dragons</a>
+					<h3>{{products.title}} Dragons</h3>
+					<p>{{products.meta}}</p>
+					<h4>{{products.price}}</h4>
+					<a class="btn2" href="{{site.baseurl}}{{products.url}}"> Information</a>
+				</div>
+
 		</div>
 
-</div>
-		{% endif %}
-	{% endfor %}
+
+			{% endif %}
+		{% endfor %}
+
+	</main>
+
 </div>
 
