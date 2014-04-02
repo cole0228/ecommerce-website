@@ -9,26 +9,22 @@ price: $70,000
 search: reddragons
 ---
 
-<main role="main">
+![images](/images/red-dragon1.jpg)
 
-	![images](/images/red-dragon1.jpg)
+### Red Dragon
+##### Price: 70,000
 
-	### Red Dragon
-	##### Price: 70,000
+<hr>
 
-	---
+*Cotton candy* pudding **bear claw caramels** bear claw ***toffee sweet roll wafer***. Sugar plum sesame snaps brownie pie fruitcake. Chocolate bar croissant oat cake.
 
-	*Cotton candy* pudding **bear claw caramels** bear claw ***toffee sweet roll wafer***. Sugar plum sesame snaps brownie pie fruitcake. Chocolate bar croissant oat cake.
+Cotton candy pudding bear claw caramels bear claw toffee sweet roll wafer. Sugar plum sesame snaps brownie pie fruitcake. [Chocolate bar croissant oat cake.]()
 
-	Cotton candy pudding bear claw caramels bear claw toffee sweet roll wafer. Sugar plum sesame snaps brownie pie fruitcake. [Chocolate bar croissant oat cake.]()
+<a class="btn2" href="{{site.baseurl}}/cart/"> Buy Now</a>
 
-	<a class="btn2" href="{{site.baseurl}}/cart/"> Buy Now</a>
+## Features
 
-	## Features
+- Red
+- Fiery
 
-	- Red
-	- Fiery
-
-	<hr>
-
-</main>
+<hr>
