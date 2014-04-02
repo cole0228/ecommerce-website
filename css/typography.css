@@ -116,7 +116,9 @@ a:active {
 	outline: none;
 }
 
-a:focus {
+a:focus,
+input:focus,
+button: focus {
 	outline: 3px solid #000;
 }
 
