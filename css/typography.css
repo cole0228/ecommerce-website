@@ -110,6 +110,16 @@ a:active {
 	border-bottom-color: #1A0C33;
 }
 
+a:hover,
+a:active {
+	/* It is okay to remove the focus rectangle for mouse actions */
+	outline: none;
+}
+
+a:focus {
+	outline: 3px solid #000;
+}
+
 ul{
 	font-family: futura,sans-serif;
 	font-weight: normal;
