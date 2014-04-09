@@ -9,7 +9,7 @@ price: $70,000
 search: bluedragons
 ---
 
-![images](/images/blue-dragon2.jpg)
+<img class="img-flex individual" src="{{site.baseurl}}/images/blue-dragon2.jpg" alt="bluedragons.title">
 
 ### Blue Dragon
 ##### Price: 70,000

@@ -9,7 +9,7 @@ price: $70,000
 search: reddragons
 ---
 
-![images](/images/red-dragon3.jpg)
+<img class="img-flex individual" src="{{site.baseurl}}/images/red-dragon3.jpg" alt="reddragons.title">
 
 ### Red Dragon
 ##### Price: 70,000
