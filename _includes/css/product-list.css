@@ -8,12 +8,12 @@ white: #fff
 */
 
 .product{
-	padding: 2em;
-	width: 15rem;
+	padding: 1em;
+	width: 10rem;
 	margin-bottom: 1.5em;
 	margin-left: 3%;
 	display: table;
-	border: 1px solid #7F002B;
+	border-radius: 10px;
 	background: #eee;
 }
 
