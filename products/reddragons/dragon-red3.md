@@ -3,7 +3,7 @@ layout: default
 category: dragons
 type: red
 images: red-dragon3.jpg
-title: Red Dragon 3
+title: Fire
 meta: This is the a red dragon that you can buy
 price: $70,000
 search: reddragons

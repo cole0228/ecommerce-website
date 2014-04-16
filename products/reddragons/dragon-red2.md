@@ -3,7 +3,7 @@ layout: default
 category: dragons
 type: red
 images: red-dragon2.jpg
-title: Red Dragon 2
+title: The Crazy One
 meta: This is the a red dragon that you can buy
 price: $70,000
 search: reddragons

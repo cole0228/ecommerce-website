@@ -3,7 +3,7 @@ layout: default
 category: dragons
 type: red
 images: red-dragon1.jpg
-title: Red Dragon 1
+title: Majestic Red
 meta: This is the a red dragon that you can buy
 price: $70,000
 search: reddragons

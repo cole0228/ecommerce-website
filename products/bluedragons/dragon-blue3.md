@@ -3,7 +3,7 @@ layout: default
 category: dragons
 type: blue
 images: blue-dragon3.jpg
-title: Blue Dragon 3
+title: Electric Blue
 meta: This is the a blue dragon that you can buy
 price: $70,000
 search: bluedragons

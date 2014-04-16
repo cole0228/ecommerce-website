@@ -3,7 +3,7 @@ layout: default
 category: dragons
 type: blue
 images: blue-dragon2.jpg
-title: Blue Dragon 2
+title: Wind
 meta: This is the a blue dragon that you can buy
 price: $70,000
 search: bluedragons

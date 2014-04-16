@@ -3,7 +3,7 @@ layout: default
 category: dragons
 type: blue
 images: blue-dragon5.jpg
-title: Blue Dragon 5
+title: The Moody One
 meta: This is the a blue dragon that you can buy
 price: $70,000
 search: bluedragons
