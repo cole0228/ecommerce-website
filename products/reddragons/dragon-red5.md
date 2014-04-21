@@ -5,25 +5,25 @@ type: red
 images: red-dragon5.jpg
 title: Big Red
 meta: This is the a red dragon that you can buy
-price: $70,000
+price: $73,700
 search: reddragons
 ---
 
 <img class="img-flex individual" src="{{site.baseurl}}/images/red-dragon5.jpg" alt="reddragons.title">
 
 ### Red Dragon
-##### Price: 70,000
+##### Price: 73,700
 
 <hr>
 
-*Cotton candy* pudding **bear claw caramels** bear claw ***toffee sweet roll wafer***. Sugar plum sesame snaps brownie pie fruitcake. Chocolate bar croissant oat cake.
-
-Cotton candy pudding bear claw caramels bear claw toffee sweet roll wafer. Sugar plum sesame snaps brownie pie fruitcake. [Chocolate bar croissant oat cake.]()
+*Big red* is the largest of all the dragons. Even the blue category dragons. Some say he is bigger than the tallest mountains. He is rarely seen and he is very shy.
 
 <a class="btn2" href="{{site.baseurl}}/cart/"> Buy Now</a>
 
-## Features
+## ***Features***
 
+- Biggest
+- Tallest
 - Red
 - Fiery
 
