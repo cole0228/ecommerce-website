@@ -5,25 +5,25 @@ type: red
 images: red-dragon1.jpg
 title: Majestic Red
 meta: This is the a red dragon that you can buy
-price: $70,000
+price: $75,200
 search: reddragons
 ---
 
 <img class="img-flex individual" src="{{site.baseurl}}/images/red-dragon1.jpg" alt="reddragons.title">
 
 ### Red Dragon
-##### Price: 70,000
+##### Price: 75,200
 
 <hr>
 
-*Cotton candy* pudding **bear claw caramels** bear claw ***toffee sweet roll wafer***. Sugar plum sesame snaps brownie pie fruitcake. Chocolate bar croissant oat cake.
-
-Cotton candy pudding bear claw caramels bear claw toffee sweet roll wafer. Sugar plum sesame snaps brownie pie fruitcake. [Chocolate bar croissant oat cake.]()
+*Majestic red* is the 2nd largest dragon of the red category. He doesn't have that big of a temper. He likes to live high up in the mountains.
 
 <a class="btn2" href="{{site.baseurl}}/cart/"> Buy Now</a>
 
-## Features
+## ***Features***
 
+- Big
+- Majestic
 - Red
 - Fiery
 
