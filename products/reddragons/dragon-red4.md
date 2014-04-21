@@ -5,25 +5,25 @@ type: red
 images: red-dragon4.jpg
 title: Traditional Red
 meta: This is the a red dragon that you can buy
-price: $70,000
+price: $56,000
 search: reddragons
 ---
 
 <img class="img-flex individual" src="{{site.baseurl}}/images/red-dragon4.jpg" alt="reddragons.title">
 
 ### Red Dragon
-##### Price: 70,000
+##### Price: 56,000
 
 <hr>
 
-*Cotton candy* pudding **bear claw caramels** bear claw ***toffee sweet roll wafer***. Sugar plum sesame snaps brownie pie fruitcake. Chocolate bar croissant oat cake.
-
-Cotton candy pudding bear claw caramels bear claw toffee sweet roll wafer. Sugar plum sesame snaps brownie pie fruitcake. [Chocolate bar croissant oat cake.]()
+*Traditional Red* is a fun dragon who loves to come out at festivals. This one is also a traditional Chinese dragon.
 
 <a class="btn2" href="{{site.baseurl}}/cart/"> Buy Now</a>
 
-## Features
+## ***Features***
 
+- Traditional
+- Festival dragon
 - Red
 - Fiery
 
