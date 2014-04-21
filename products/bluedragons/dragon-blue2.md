@@ -5,25 +5,25 @@ type: blue
 images: blue-dragon2.jpg
 title: Wind
 meta: This is the a blue dragon that you can buy
-price: $70,000
+price: $80,400
 search: bluedragons
 ---
 
 <img class="img-flex individual" src="{{site.baseurl}}/images/blue-dragon2.jpg" alt="bluedragons.title">
 
 ### Blue Dragon
-##### Price: 70,000
+##### Price: 80,400
 
 ---
 
-*Cotton candy* pudding **bear claw caramels** bear claw ***toffee sweet roll wafer***. Sugar plum sesame snaps brownie pie fruitcake. Chocolate bar croissant oat cake.
-
-Cotton candy pudding bear claw caramels bear claw toffee sweet roll wafer. Sugar plum sesame snaps brownie pie fruitcake. [Chocolate bar croissant oat cake.]()
+This is the mystical *Wind dragon*. She lives in the sky on the mountain tops.
 
 <a class="btn2" href="{{site.baseurl}}/cart/"> Buy Now</a>
 
-## Features
+## ***Features***
 
+- Windy
+- Lives in the mountains
 - Blue
 - Preeeety
 
