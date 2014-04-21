@@ -16,7 +16,7 @@ search: bluedragons
 
 ---
 
-This is the *dragon of the Stars* it is said if you see this dragon then you will have good fortune.
+This is the *dragon of the Stars* it is said if you see this dragon then you will have good fortune. This one is also the smallest of the dragons.
 
 <a class="btn2" href="{{site.baseurl}}/cart/"> Buy Now</a>
 
