@@ -5,25 +5,25 @@ type: blue
 images: blue-dragon1.jpg
 title: Water
 meta: This is the a blue dragon that you can buy
-price: $70,000
+price: $90,700
 search: bluedragons1
 ---
 
 <img class="img-flex individual" src="{{site.baseurl}}/images/blue-dragon1.jpg" alt="bluedragons.title">
 
 ### Blue Dragon
-##### Price: 70,000
+##### Price: 90,700
 
 ---
 
-*Cotton candy* pudding **bear claw caramels** bear claw ***toffee sweet roll wafer***. Sugar plum sesame snaps brownie pie fruitcake. Chocolate bar croissant oat cake.
-
-Cotton candy pudding bear claw caramels bear claw toffee sweet roll wafer. Sugar plum sesame snaps brownie pie fruitcake. [Chocolate bar croissant oat cake.]()
+This *Water dragon* comes from the Yangtze River. This is the second smallest of the blue dragons.
 
 <a class="btn2" href="{{site.baseurl}}/cart/"> Buy Now</a>
 
-## Features
+## ***Features***
 
+- Water
+- Lives in rivers
 - Blue
 - Preeeety
 
