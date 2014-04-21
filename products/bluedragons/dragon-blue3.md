@@ -5,25 +5,25 @@ type: blue
 images: blue-dragon3.jpg
 title: Electric Blue
 meta: This is the a blue dragon that you can buy
-price: $70,000
+price: $98,700
 search: bluedragons
 ---
 
 <img class="img-flex individual" src="{{site.baseurl}}/images/blue-dragon3.jpg" alt="bluedragons.title">
 
 ### Blue Dragon
-##### Price: 70,000
+##### Price: 98,700
 
 ---
 
-*Cotton candy* pudding **bear claw caramels** bear claw ***toffee sweet roll wafer***. Sugar plum sesame snaps brownie pie fruitcake. Chocolate bar croissant oat cake.
-
-Cotton candy pudding bear claw caramels bear claw toffee sweet roll wafer. Sugar plum sesame snaps brownie pie fruitcake. [Chocolate bar croissant oat cake.]()
+The *Electric dragon* is one of the most dangerous dragons. You cannot get very close to this one as you will most likely get shocked.
 
 <a class="btn2" href="{{site.baseurl}}/cart/"> Buy Now</a>
 
-## Features
+## ***Features***
 
+- Electric
+- Static
 - Blue
 - Preeeety
 
