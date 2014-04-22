@@ -8,9 +8,11 @@ white: #fff
 */
 
 .product{
-	padding: 1em;
+	padding-bottom: 0;
+	padding-left: 1em;
+	padding-right: 1em;
 	width: 10rem;
-	margin-bottom: 1.5em;
+	margin-bottom: 0;
 	margin-left: 3%;
 	display: table;
 	border-radius: 10px;
@@ -18,5 +20,9 @@ white: #fff
 }
 
 .product-img{
-	max-width: 18.5em;
+	max-width: 15em;
+}
+
+.product-h2{
+	margin-bottom: 0;
 }
